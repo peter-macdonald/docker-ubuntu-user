@@ -9,3 +9,6 @@ To invoke from dockerhub:
 To build yourself and run:
     docker build -t ubuntu-user .
     docker run -it ubuntu-user
+
+The user added has the username `user`, no password is set.
+`sudo` is enabled to be used without a password
